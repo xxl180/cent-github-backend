@@ -6,6 +6,6 @@ export default [
 	"https://glink25.github.io",
 	"https://oncent.github.io",
 	"https://cent.linkai.work",
-	"https://cent.link-ai.workers.dev",
+	"https://369369.pages.dev",
 	"dailycent://"
 ];
